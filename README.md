@@ -15,7 +15,11 @@ This project aims to forecast solar irradiance using historical data retrieved f
   - SARIMA  
   - Random Forest  
 - Comparative evaluation of model performance  
-- Forecast visualization and results plotting  
+- Forecast visualization and results plotting
+
+## Forecast Example
+
+![Forecast Plot](forecast_plot.png)
 
 ---
 
@@ -31,4 +35,4 @@ This project aims to forecast solar irradiance using historical data retrieved f
 07_model_rf.R        # Fit a Random Forest model  
 08_plot_results.R    # Visualize forecast outputs  
 09_evaluation.R      # Compare model performance  
-main.R               # Main script to run the full pipeline  
+main.R               # Main script to run the full pipeline
